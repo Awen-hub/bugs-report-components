@@ -1,0 +1,1 @@
+<block wx:if="{{$ready}}"><view class="__rax-view"><text class="__rax-text">Hello world!{{ _d0[_d1] }}{{ _d2.a }}</text></view></block>

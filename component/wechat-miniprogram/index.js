@@ -1,0 +1,1 @@
+"use strict";var _jsx2mpRuntimeWechat=require("jsx2mp-runtime/dist/jsx2mp-runtime.wechat.esm");function MyComponent(){this._updateData({}),this._updateMethods({})}var __def__=MyComponent;Component((0,_jsx2mpRuntimeWechat.createComponent)(__def__,{}));

@@ -1,0 +1,1 @@
+<block wx:if="{{$ready}}"><c-bb5906 __tagId="{{__tagId}}-0"></c-bb5906></block>

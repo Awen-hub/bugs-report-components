@@ -1,0 +1,11 @@
+{
+  "type": "rax",
+  "targets": [
+    "wechat-miniprogram"
+  ],
+  "plugins": [
+    "build-plugin-component"
+  ],
+  "enablePlatformLoader": true,
+  "outputDir": "component"
+}
