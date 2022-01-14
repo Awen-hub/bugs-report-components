@@ -1,8 +1,9 @@
 {
-  "pages": [
-    "pages/index"
-  ],
-  "window": {
-    "title": "demo"
-  }
+    "pages": [
+        "pages/index"
+    ],
+    "window": {
+        "title": "demo"
+    },
+    "sitemapLocation": "sitemap.json"
 }
