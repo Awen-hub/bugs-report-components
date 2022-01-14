@@ -1,1 +1,0 @@
-"use strict";var _jsx2mpRuntimeWechat=require("jsx2mp-runtime/dist/jsx2mp-runtime.wechat.esm");function Component2(t){var e=[].concat([1,2,3]);this._updateData({_d0:e,_d1:2,_d2:t}),this._updateMethods({})}var __def__=Component2;Component((0,_jsx2mpRuntimeWechat.createComponent)(__def__,{}));
